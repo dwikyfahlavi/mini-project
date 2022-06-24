@@ -2,7 +2,7 @@
   "name": "mini-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dwikyfahlavi.github.io",
+  "homepage": "https://dwikyfahlavi.github.io/mini-project",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.16.4",
